@@ -1,50 +1,50 @@
-# 🧠 JavaScript Fundamentals Practice
+# ⚡ JavaScript – Fundamentos
 
-Repositório dedicado ao estudo e prática dos fundamentos de JavaScript.
-
-O objetivo é consolidar lógica de programação e manipulação do DOM através de exercícios práticos organizados por conceito.
+Este repositório contém meus estudos e exercícios práticos de **JavaScript**, organizados de forma progressiva conforme avanço no aprendizado.
 
 ---
 
-## 📚 Conteúdo abordado
+## 📂 Estrutura do Projeto
 
-### 🔹 Fundamentos
-- Saída de dados (console.log, alert)
-- Variáveis (var, let, const)
+📁 exercicios  
+- ex001  
+- ex002  
+- ex003  
+- ...
+
+💡 Os exercícios seguem a ordem de aprendizado e não estão separados por tema específico, mantendo uma organização simples e objetiva.
+
+---
+
+### 🧠 Conteúdos Praticados
+
+- Variáveis (let, var, const)
 - Tipos de dados
 - Operadores
-
-### 🔹 Estruturas de controle
-- Condicionais (if, else, switch)
-- Laços de repetição (for, while)
-
-### 🔹 Estruturas de dados
-- Arrays
-- Objetos
-
-### 🔹 Funções
-- Funções tradicionais
-- Arrow functions
-- Parâmetros e retorno
-
-### 🔹 Manipulação do DOM
-- Seletores
+- Condições (if/else)
+- Estruturas de repetição (for, while)
+- Funções
+- Manipulação básica do DOM
+- Interação com o usuário
 - Eventos
-- Alteração de classes
-- Atualização dinâmica de conteúdo
 
 ---
 
-## 🎯 Objetivo do repositório
+### 🎯 Objetivo
 
-Desenvolver base sólida em JavaScript antes de avançar para projetos mais complexos e aplicações completas.
+Construir uma base sólida em JavaScript antes de avançar para:
+
+- JavaScript moderno (ES6+)
+- Projetos mais complexos
+- Frameworks como React
+- Desenvolvimento Front-End profissional
 
 ---
 
-## 🚀 Próximo passo
+## 🚀 Evolução
 
-Aplicar esses fundamentos em projetos práticos como:
+Novos exercícios serão adicionados conforme avanço nos estudos.
 
-- Sistema de Tickets
-- Sistema de Filtro de Produtos
-- Aplicações com LocalStorage
+---
+
+## 👨‍💻 Autor: Jonas Albuquerque Cândido
