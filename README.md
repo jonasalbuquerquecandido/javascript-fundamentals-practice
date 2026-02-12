@@ -9,6 +9,7 @@ O objetivo é consolidar lógica de programação e manipulação do DOM atravé
 ## 📚 Conteúdo abordado
 
 ### 🔹 Fundamentos
+- Saída de dados (console.log, alert)
 - Variáveis (var, let, const)
 - Tipos de dados
 - Operadores
