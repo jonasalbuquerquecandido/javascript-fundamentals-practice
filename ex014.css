@@ -1,0 +1,28 @@
+body {
+    background: rgb(158, 158, 247);
+    font: normal 15 pt arial;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+    border: 1 px solid black;
+    border-radius: 10px;
+    width: 30rem;
+    height: 30rem;
+    justify-items: center;
+    padding: 1rem;
+    margin: auto; /* Centralizar objeto */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
+   
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
