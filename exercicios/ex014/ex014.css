@@ -1,6 +1,5 @@
 body {
-    background: rgb(158, 158, 247);
-    font: normal 15 pt arial;
+    font: normal 15pt arial;
 }
 
 header {
@@ -9,15 +8,21 @@ header {
 
 section {
     background: white;
-    border: 1 px solid black;
+    border: 1px solid black;
     border-radius: 10px;
-    width: 30rem;
-    height: 30rem;
+    width: 50%;
+    height: 50%;
     justify-items: center;
     padding: 1rem;
     margin: auto; /* Centralizar objeto */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
    
+}
+
+#imagem {
+    padding: ;
+    width: 350px;
+    
 }
 
 footer {
