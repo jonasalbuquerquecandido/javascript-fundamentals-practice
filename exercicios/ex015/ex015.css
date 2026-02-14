@@ -16,13 +16,10 @@ section {
     padding: 1rem;
     margin: auto; /* Centralizar objeto */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
-   
 }
 
 #imagem {
-    padding: ;
     width: 350px;
-    
 }
 
 footer {
@@ -30,4 +27,3 @@ footer {
     color: white;
     font-style: italic;
 }
-
