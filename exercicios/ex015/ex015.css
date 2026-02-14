@@ -1,5 +1,6 @@
 body {
-    font: normal 15pt arial;
+    font: normal 10pt arial;
+    background-color: rgb(63, 60, 241);
 }
 
 header {
@@ -10,13 +11,14 @@ section {
     background: white;
     border: 1px solid black;
     border-radius: 10px;
-    width: 50%;
+    width: 60%;
     height: 50%;
-    justify-items: center;
     padding: 1rem;
     margin: auto; /* Centralizar objeto */
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
+    
 }
+
 
 #imagem {
     width: 350px;
@@ -24,6 +26,6 @@ section {
 
 footer {
     text-align: center;
-    color: white;
+    color: rgb(0, 0, 0);
     font-style: italic;
 }
