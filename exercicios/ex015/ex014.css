@@ -1,0 +1,33 @@
+body {
+    font: normal 15pt arial;
+}
+
+header {
+    text-align: center;
+}
+
+section {
+    background: white;
+    border: 1px solid black;
+    border-radius: 10px;
+    width: 50%;
+    height: 50%;
+    justify-items: center;
+    padding: 1rem;
+    margin: auto; /* Centralizar objeto */
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.568);
+   
+}
+
+#imagem {
+    padding: ;
+    width: 350px;
+    
+}
+
+footer {
+    text-align: center;
+    color: white;
+    font-style: italic;
+}
+
