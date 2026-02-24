@@ -4,7 +4,7 @@ function contar() {
     var fim = document.querySelector('p#txtfim')
     var passo = document.getElementById('txtpasso')
     res = ('passo')
-    if (inico ++ passo )
+
         
 }
     
