@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    background: #4187D9;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    font-size: 3rem;
+}
+
+.box-function {
+    background: white;
+    width: 30rem;
+    height: 20rem;
+    margin: auto;
+    font-size: bolder;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.301);
+}
+
+.format {
+    padding: 1rem;
+}
+
+#flista {
+    width: 150px;
+}
+
+footer {
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
