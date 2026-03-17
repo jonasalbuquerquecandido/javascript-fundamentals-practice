@@ -1,5 +1,5 @@
 // Retornar um valor boleano
-const boolToWord = (n) => n >= ? "yes" : "No"
+const boolToWord = (n) => n ? "yes" : "No"
 // Ou
 function boolToWord(n){
     if(n){
