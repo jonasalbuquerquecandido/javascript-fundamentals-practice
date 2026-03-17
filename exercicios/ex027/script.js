@@ -1,19 +1,17 @@
-let nota = (Number.trim().prompt("Digite a nota de (0 a 10): "))
-let frequencia = (Number.trim().replace("%", "").prompt("Digite a frequência de (0% a 100%):"))
+let nota = Number(prompt("Digite a nota de (0 a 10):").trim());
+let frequencia = Number(prompt("Digite a frequência de (0% a 100%):").trim().replace("%", ""));
 
-if((nota > 10) || (nota < 0)) {
-    alert("NOTA INVÁLIDA! Digite novamente.")
-}
-
-if((isNaN(frequencia) > 100) || (frequencia < 0)) {
-    alert("FREQUENCIA INVÁLIDA! Digite novamente.")
-}
-
-if((nota >= 6) && (frequencia >= 75)) { 
-    alert("APROVADO!")
+if ((nota > 10) || (nota < 0) || isNaN(nota)) {
+    console.log("NOTA INVÁLIDA! Digite novamente.");
+} else if ((frequencia > 100) || (frequencia < 0) || isNaN(frequencia)) {
+    console.log("FREQUÊNCIA INVÁLIDA! Digite novamente.");
+} else if ((nota >= 6) && (frequencia >= 75)) { 
+    console.log("APROVADO!");
 } else {
-    alert("REPROVADO")
+    console.log("REPROVADO");
 }
+
+
 
 /* 
 
