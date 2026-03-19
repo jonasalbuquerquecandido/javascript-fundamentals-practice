@@ -1,8 +1,4 @@
 // ANOTAÇÕES PARA A FIXAÇÃO E CONFERÊNCIA
- 
-
-let.join("")   // Junta os elementos de um array em uma string
-
 
 // 📘 Funções e métodos essenciais em JavaScript
 
