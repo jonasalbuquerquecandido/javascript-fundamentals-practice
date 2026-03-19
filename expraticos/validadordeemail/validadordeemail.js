@@ -13,9 +13,7 @@ function validarEmail(email) {
         if (posicaoArroba < posicaoPonto) {
             return  true;
         } 
-
     }
-
     return false;
 }
 console.log(validarEmail("user@gmail.com"))
